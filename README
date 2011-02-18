@@ -1,0 +1,4 @@
+== sms_xml_to_txt
+
+Just simple app was written on Ruby which parsing xml file (via Android SMS Backup)
+and re-write content in output.txt file. Simmple as I wrote =) Cheers! ;)
